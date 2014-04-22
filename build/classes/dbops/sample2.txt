@@ -1,0 +1,6 @@
+Model:Model 2
+Color:Fort Knox Gold Clearcoat Metallic
+Transmission:Automatic
+Brakes/Traction Control:Standard
+Side Impact Air Bags:Present
+Power Moonroof:Present

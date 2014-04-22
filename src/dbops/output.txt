@@ -1,0 +1,22 @@
+Model 1, Fort Knox Gold Clearcoat Metallic, Automatic, Standard, Present
+
+Model 1, Fort Knox Gold Clearcoat Metallic, Automatic, Standard, Present
+
+Model 2, Fort Knox Gold Clearcoat Metallic, Automatic, Standard, Present
+
+Model 1, Fort Knox Gold Clearcoat Metallic, Automatic, Standard, Present
+
+Model 2, Fort Knox Gold Clearcoat Metallic, Automatic, Standard, Present
+
+Model 3, Fort Knox Gold Clearcoat Metallic, Manual, Standard, Present
+
+Model 1, Fort Knox Gold Clearcoat Metallic, Automatic, Standard, Present
+
+Model 2, Fort Knox Gold Clearcoat Metallic, Automatic, Standard, Present
+
+Model 3, Fort Knox Gold Clearcoat Metallic, Manual, Standard, Present
+
+Model 4, Fort Knox Gold Clearcoat Metallic, Manual, Standard, Present
+
+French Blue Clearcoat Metallic
+Exception thrown because record does not exist
